@@ -1,4 +1,5 @@
 ATS Resume Filter and Analyzer using Gemini API:
+
 Developed an AI-powered resume screening tool that intelligently filters and analyzes resumes against job descriptions using Google's Gemini API. The system extracts keywords, evaluates content relevance, and provides match scores to aid recruiters in shortlisting ideal candidates efficiently.
 
 Key Highlights:
